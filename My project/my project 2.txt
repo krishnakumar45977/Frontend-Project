@@ -1,0 +1,12 @@
+
+downloading uv 0.12.15 (x86_64-pc-windows-msvc)                                                                                                                   
+installing to C:\Users\KRISHNA\.local\bin                                                                                                                         
+  uv.exe                                                                                                                                                          
+  uvx.exe                                                                                                                                                         
+  uvw.exe                                                                                                                                                         
+everything's installed!
+
+To add C:\Users\KRISHNA\.local\bin to your PATH, either restart your shell or run:
+
+    set Path=C:\Users\KRISHNA\.local\bin;%Path%   (cmd)
+    $env:Path = "C:\Users\KRISHNA\.local\bin;$env:Path"   (powershell)
